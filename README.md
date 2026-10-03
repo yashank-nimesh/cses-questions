@@ -1,2 +1,5 @@
 # cses-questions
-Simple solutions and notes for CSES problem set.
+
+Simple solutions to CSES problems.
+
+Solutions are organized in the `solutions/` folder.
